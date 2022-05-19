@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @yc15621050152
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 如何快速在Github上搜索项目
+### 1、名称搜索
+```
+in:name python stars:>1000 forks:>1000
+```
 
-<!---
-yc15621050152/yc15621050152 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 2、Readme搜索
+```
+in:readme python stars:>1000 forks:>1000
+```
+
+### 3、描述搜索
+```
+in:description 微服务 stars:>1000 forks:>1000 language:java pushed:>2019-09-03
+```
